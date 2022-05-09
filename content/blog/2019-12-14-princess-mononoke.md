@@ -1,5 +1,5 @@
 ---
-title: "Princess Mononoke"
+title: "Proyectos de JAVA"
 date: 2020-03-09
 image: /images/princess-mononoke.jpg
 tags:
