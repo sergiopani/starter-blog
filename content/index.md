@@ -1,7 +1,7 @@
 ---
-title: Home
+title: PANIX
 ---
 
-# The Butler
+# PANIX
 
-> A ready to use static blog, powered by [Cecil](https://cecil.app).
+> Blog Personal de Sergio Paniagua López [PANIX](https://github.com/sergiopani).
